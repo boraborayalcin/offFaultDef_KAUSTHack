@@ -14,7 +14,7 @@ The following notebooks are provided:
 
 `OffFaultDeformation_gettingstarted`: display the training and testing datasets (requires data to be stored locally);
 
-`OffFaultDeformation_gettingstarted_colab`: same but in case you are using Colab;
+`OffFaultDeformation_gettingstarted_colab`: same but in case you are using Colab, access [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/boraborayalcin/offFaultDef_KAUSTHack/blob/main/OffFaultDeformation_gettingstarted_colab.ipynb) 
 
 
 
