@@ -1,0 +1,12 @@
+name: offdefplane
+channels:
+  - defaults
+  - conda-forge
+  - numba
+dependencies:
+  - python>=3.6.4
+  - numpy
+  - scipy
+  - matplotlib
+  - ipython
+  - jupyter
